@@ -1,0 +1,2 @@
+# HospitalMgmt-AcademicProject
+Hospital Management
